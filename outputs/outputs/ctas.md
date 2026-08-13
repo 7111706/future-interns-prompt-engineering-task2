@@ -1,9 +1,9 @@
 ##
 
 Soft CTAs
-"Maybe put Mozambik on your list."
-"Worth checking out if you're around."
-"Just something to try sometime, honestly."
+1. "Maybe put Mozambik on your list."
+2. "Worth checking out if you're around."
+3. "Just something to try sometime, honestly."
 
 Direct CTAs
 4. "Go book a table at Mozambik."
